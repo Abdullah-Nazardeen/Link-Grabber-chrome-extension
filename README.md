@@ -10,4 +10,4 @@ Select "Save Tab" to dynamically grab the current tab's link.
 select "Save Input", to save manually pasted links.
 select "delete" to clear inputs.
 ### All inputs are saved on local storage, so when chrome is closed the saved tabs will still remain.
-## Unable to host extension, please download the files and add the extension to try it out.
+### Unable to host extension, please download the files and add the extension to try it out.
